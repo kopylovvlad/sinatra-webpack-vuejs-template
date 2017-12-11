@@ -4,8 +4,8 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 Vue.use(Vuex)
-import client from './client.js'
-import store from './store.js'
+import client from './client/client.js'
+import store from './store/store.js'
 import 'bootstrap';
 
 //
@@ -29,7 +29,7 @@ Vue.config.silent        = process.env.NODE_ENV != 'development'
 //
 // Vue Router
 //
-import router from './router'
+import router from './routes/router'
 import {sync} from 'vuex-router-sync'
 sync(store, router);
 

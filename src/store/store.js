@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import client from './client.js'
+import client from './../client/client.js'
 Vue.use(Vuex);
 
 const state = {

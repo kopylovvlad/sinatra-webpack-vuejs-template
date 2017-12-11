@@ -39,7 +39,7 @@
 </template>
 
 <script>
-  import store from '../store'
+  import store from '../store/store'
   import ListItem from '../components/ListItem.vue'
 
   export default {
