@@ -116,4 +116,5 @@ build-iPhoneSimulator/
 
 # db
 *.db
+
 # End of https://www.gitignore.io/api/ruby,node
