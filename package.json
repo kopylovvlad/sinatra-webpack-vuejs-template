@@ -1,7 +1,7 @@
 {
   "name": "sinatra-webpack-vuejs-template",
   "description": "Sinatra Webpack vue.js SPA template",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "author": "vkopylov <kopylov.vlad@gmail.com>",
   "private": false,
   "scripts": {
