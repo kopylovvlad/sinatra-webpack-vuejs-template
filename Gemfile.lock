@@ -45,7 +45,7 @@ PLATFORMS
 DEPENDENCIES
   foreman
   sequel
-  sinatra
+  sinatra (~> 2.0.0)
   sinatra-contrib
   sqlite3
 
