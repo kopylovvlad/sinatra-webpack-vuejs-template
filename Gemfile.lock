@@ -15,7 +15,7 @@ GEM
     minitest (5.11.3)
     multi_json (1.13.1)
     mustermann (1.0.3)
-    rack (2.0.5)
+    rack (2.0.6)
     rack-protection (2.0.4)
       rack
     sequel (5.12.0)
